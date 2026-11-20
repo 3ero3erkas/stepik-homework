@@ -7,8 +7,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Настройки авторизации (замените на свои данные)
-STEPIK_LOGIN = "verafilippova093@gmail.com"
-STEPIK_PASSWORD = "Beer1542637890"
+STEPIK_LOGIN = "."
+STEPIK_PASSWORD = "."
 
 # Список для сбора нестандартных сообщений от платформы
 secret_message_parts = []
